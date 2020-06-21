@@ -24,7 +24,7 @@ I have created an star schema using the song and log datasets which includes
 > - One fact table: songplays
 > - Four dimension tables: users, songs, artists and time.
 
-![Star Schema](Star_Schema.png)
+
 
 
 
