@@ -1,4 +1,4 @@
-# Data Modelling with Postgres
+# Data Modeling with Postgres
 
 ## Introduction
 
